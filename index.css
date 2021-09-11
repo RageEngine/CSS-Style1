@@ -1,0 +1,43 @@
+body {
+  font-family: monospace, helvetica, sans-serief, emoji;
+  background-color: #3e3e3e;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  background-color: #a6a6a6;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+h1:hover , .anima:hover , .artic:hover , .arctic:hover {
+  text-shadow: 0px 0px 2px white;
+  box-shadow: 0px 4px 8px 1px black;
+}
+
+.anima {
+  background-color: gray;
+  padding: 60px;
+  border-radius: 10px;
+}
+
+.artic {
+  background-color: gray;
+  border-radius: 10px;
+  padding: 70px;
+  margin-right: 55%;
+}
+
+.arctic {
+  background-color: gray;
+  padding: 70px;
+  margin-left: 55%;
+  border-radius: 10px;
+  position: relative;
+  top: -158px;
+}
+
+.copy {
+  text-align: center;
+}
