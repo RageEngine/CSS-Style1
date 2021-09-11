@@ -5,6 +5,11 @@ body {
   text-align: center;
 }
 
+.logo {
+  font-family: monospace, monoton!important;
+  font-size: 37px;
+}
+
 h1 {
   background-color: #a6a6a6;
   border-radius: 10px;
